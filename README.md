@@ -1,126 +1,124 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Phan;AI+Engineer+%7C+Backend+%E2%86%92+ML+Systems;Building+production-grade+AI+since+2025" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=AI+Engineering+%7C+System+Design+%7C+MLOps;Building+Scalable+Intelligence;Backend+%E2%86%92+AI+Systems+Architect" alt="Typing SVG" />
 </div>
-
-<br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AI%20Engineering-Production%20Ready-blue?style=for-the-badge&logoColor=white&logo=python" />
-  <img src="https://img.shields.io/badge/Focus-MLOps%20%7C%20LLM%20Serving%20%7C%20Scalable%20AI-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Currently-Applying%20Master's%20in%20AI%20China-9cf?style=for-the-badge" />
+  <a href="https://github.com/software-engineeringg">
+    <img src="https://img.shields.io/badge/Role-AI%20Systems%20Contributor-blueviolet?style=for-the-badge&logo=github" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Focus-High%20Performance%20Computing-blue?style=for-the-badge&logo=intel" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Status-Building%20Production%20Grade-success?style=for-the-badge&logo=instacart" />
+  </a>
 </div>
 
 <br/>
 
-## 🚀 About Me
+### ⚡ The Engineering Lab
 
-Backend engineer chuyển hướng sang **AI Engineering**. Tôi thích xây hệ thống AI có thể scale, monitor, và deploy real-time trong production — không chỉ train model trên notebook.
+Chào mừng! Đây là **engineering account** chuyên dụng của tôi. Tại đây, tôi tập trung vào các PRs, Issues, và thử nghiệm các kiến trúc mới cho các dự án Open Source và hệ sinh thái AI cá nhân.
 
-- 🎯 **Mục tiêu 2026**: Apply job AI Engineer (tháng 6/2026) & Thạc sĩ AI (Trung Quốc – học bổng)
-- 🏆 Đang target: **ICPC National 2026 – Huy chương Đồng** và **Olympic AI**
-- 🔭 Hiện tại: Xây dựng production-grade LLM serving + MLOps pipeline
-- 🌱 Đang học sâu: **vLLM / TGI / Ray Serve**, **Kubernetes for AI**, **Prompt Engineering + RAG in production**
+> *"Tôi không chỉ train model. Tôi xây dựng hệ thống để model đó sống sót và scale được trong môi trường production."*
 
-<br/>
+- 🔭 **Current Focus:** Tối ưu hóa Inference Engine (vLLM/TGI), Distributed Training & Kubernetes Operators cho AI.
+- 🎯 **2026 Goals:**
+    - 🇨🇳 **China Government Scholarship** (Master in AI)
+    - 💼 **AI Engineer** (Production/System focus)
+- 🌱 **Learning:** Deep Dive into Kernel Optimization (CUDA), RAG Advanced Patterns, & Agentic Workflows.
 
-## 🛠️ Tech Stack – Production Mindset
+---
+
+### 🛠️ Production Arsenal
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><b>Core & Algorithms</b></td>
+    <td align="center" width="25%"><b>AI & ML Frameworks</b></td>
+    <td align="center" width="25%"><b>MLOps & Infra</b></td>
+    <td align="center" width="25%"><b>Backend & Data</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python,cpp,rust&theme=dark" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,huggingface,opencv&theme=dark" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,aws,gcp&theme=dark" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,kafka,elasticsearch&theme=dark" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ray-FFD500?style=flat-square&logo=ray&logoColor=black" />
-  <img src="https://img.shields.io/badge/vLLM-00AAFF?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM%20Serving-TGI%20%7C%20vLLM-important" />
-  <img src="https://img.shields.io/badge/Database-PostgreSQL%20%7C%20Redis%20%7C%20Milvus-blue" />
-  <img src="https://img.shields.io/badge/Cloud-GCP%20%7C%20Aliyun-orange" />
+  <img src="https://img.shields.io/badge/Serving-vLLM%20%7C%20Ray%20Serve%20%7C%20Triton-important?style=flat-square" />
+  <img src="https://img.shields.io/badge/Monitoring-Prometheus%20%7C%20Grafana%20%7C%20Arize-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Vector_DB-Milvus%20%7C%20Qdrant%20%7C%20Chroma-green?style=flat-square" />
 </div>
 
 <br/>
 
-## 🔥 Featured Production-Grade Projects
+### 🧪 Core Contributions & Labs
 
 <table>
   <thead align="center">
-    <tr border: none;>
-      <td><b>Projects</b></td>
-      <td><b>Description</b></td>
-      <td><b>Tech Stack</b></td>
-      <td><b>Stars</b></td>
+    <tr>
+      <th>Project / Repo</th>
+      <th>Role / Contribution Type</th>
+      <th>Tech Stack</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/software-engineeringg/rag-production-pipeline"><b>RAG Production Pipeline</b></a></td>
-      <td>End-to-end RAG system với monitoring, reranking, evaluation pipeline (production ready)</td>
-      <td>LangChain / LlamaIndex / FastAPI / Prometheus / Grafana / Kubernetes</td>
-      <td><img src="https://img.shields.io/github/stars/software-engineeringg/rag-production-pipeline?style=social" /></td>
+      <td><a href="https://github.com/software-engineeringg/rag-production-pipeline"><b>🕸️ Enterprise RAG Pipeline</b></a></td>
+      <td><code>Architecture</code> <code>Performance Tuning</code><br/><i>Xây dựng pipeline RAG chịu tải cao với cơ chế Reranking & Hybrid Search.</i></td>
+      <td>LangChain, Qdrant, Kubernetes</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/software-engineeringg/llm-inference-serving"><b>High-Throughput LLM Serving</b></a></td>
-      <td>vLLM + TGI benchmark, autoscaling trên K8s, canary deployment</td>
-      <td>vLLM / TGI / Ray Serve / Kubernetes / Locust</td>
-      <td><img src="https://img.shields.io/github/stars/software-engineeringg/llm-inference-serving?style=social" /></td>
+      <td><a href="https://github.com/software-engineeringg/llm-inference-serving"><b>🚀 LLM Serving Engine</b></a></td>
+      <td><code>Optimization</code> <code>Benchmarking</code><br/><i>Tối ưu throughput cho Llama-3/Mistral trên GPU thấp bằng vLLM & Ray.</i></td>
+      <td>vLLM, Ray Serve, FastAPI</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/software-engineeringg/mlops-fastapi-template"><b>MLOps Template (FastAPI)</b></a></td>
-      <td>Production template: CI/CD + model versioning + monitoring + A/B testing</td>
-      <td>FastAPI / MLflow / DVC / GitHub Actions / Prometheus</td>
-      <td><img src="https://img.shields.io/github/stars/software-engineeringg/mlops-fastapi-template?style=social" /></td>
+      <td><a href="https://github.com/software-engineeringg/icpc-algorithm-practice"><b>⚔️ ICPC Arena</b></a></td>
+      <td><code>Algorithm</code> <code>Optimization</code><br/><i>Kho lưu trữ các giải thuật tối ưu C++ cho Competitive Programming.</i></td>
+      <td>C++20, STL, Graph Theory</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/software-engineeringg/icpc-algorithm-practice"><b>ICPC & Competitive Programming</b></a></td>
-      <td>Training cho ICPC National 2026 – target huy chương Đồng</td>
-      <td>C++ / Python / Algorithms & Data Structures</td>
-      <td>—</td>
+      <td><a href="#"><b>🧠 NeuralTwin (Contrib)</b></a></td>
+      <td><code>Contributor</code> <code>Feature Branch</code><br/><i>Đóng góp module xử lý dữ liệu và API gateway cho dự án chính.</i></td>
+      <td>Microservices, gRPC, ONNX</td>
     </tr>
   </tbody>
 </table>
 
 <br/>
 
-## 📊 GitHub Stats & Activity
+### 📊 Engineering Metrics
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=software-engineeringg&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=software-engineeringg&theme=radical&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=software-engineeringg&bg_color=0D1117&color=00FFAA&line=00FFAA&point=FFFFFF&area=true&hide_border=true" width="100%" />
+</div>
+<br/>
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=software-engineeringg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=software-engineeringg&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=software-engineeringg&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=software-engineeringg&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=icpc-algorithm-practice" />
 </div>
 
 <br/>
 
-## 🏆 Competitions & Milestones
-
-- **ICPC Vietnam National 2026** → Target: Huy chương Đồng  
-- **Olympic AI** → Đang ôn tập & luyện đề  
-- **1 năm kinh nghiệm backend/microservices** → Đã deploy hệ thống high-traffic real-world  
-- **Tháng 6/2026** → Apply full-time AI Engineer positions
-
-<br/>
-
-## 📫 Let's Connect
-
 <div align="center">
-  <a href="https://linkedin.com/in/<your-linkedin>">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/<your-handle>">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</div>
-
-<div align="center">
-  <br/>
-  <i>"Code is infrastructure. Models are products. Systems are what matter."</i>
+  <img src="https://img.shields.io/badge/Operating%20System-Arch%20Linux%20%2F%20Ubuntu-linux?style=flat-square&logo=linux" />
+  <img src="https://img.shields.io/badge/Editor-Neovim%20%2F%20VS%20Code-blue?style=flat-square&logo=visualstudiocode" />
   <br/><br/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=software-engineeringg.software-engineeringg" />
+  <i>"Talk is cheap. Show me the code (and the benchmark results)."</i>
 </div>
